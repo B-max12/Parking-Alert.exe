@@ -1,4 +1,4 @@
-# Parking Alert System 
+# Car Chime System
 
 An Electron-based desktop application with integrated C++ components for car chime system management.
 
@@ -152,6 +152,5 @@ docker build -t car-chime-system .
 This project is licensed under the terms specified in [LICENSE.txt](LICENSE.txt).
 
 ---
-
 
 ⭐ If you find this project useful, please consider giving it a star!
