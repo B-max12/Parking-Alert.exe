@@ -303,3 +303,4 @@ Open a Pull Request
 This project is licensed under the terms specified in LICENSE.txt.
 
 ⭐ If you find this project useful, please consider giving it a star!
+
